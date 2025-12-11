@@ -44,8 +44,3 @@ If a machine's "random" state can be influenced by an external observer, it sugg
 
 ## Terminal: Sample Result
 <img width="1002" height="700" alt="entropy_oracle-terminal" src="https://github.com/user-attachments/assets/3bf079f4-812a-45f5-a742-cdac351e3143" />
-
-## 👤 Author
-**Siddhartha Sharma** ([siddhartha.sharma.research@gmail.com](mailto:siddhartha.sharma.research@gmail.com))
-
-*Independent Researcher exploring Digital Phenomenology and the physics of Information.*
